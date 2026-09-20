@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799087395324",
+    "project_id": "mezmur-app-eef6e",
+    "storage_bucket": "mezmur-app-eef6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799087395324:android:6ab3a9536124dab724f279",
+        "android_client_info": {
+          "package_name": "com.example.mezmur_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQCqr7gQYhh1Mh49IgMj64qDxvln-8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
